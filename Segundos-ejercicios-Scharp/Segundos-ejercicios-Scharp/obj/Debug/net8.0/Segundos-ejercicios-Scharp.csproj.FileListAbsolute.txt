@@ -1,0 +1,14 @@
+C:\Users\Raquel\Desktop\Segundos-ejercicios-Scharp\Segundos-ejercicios-Scharp\bin\Debug\net8.0\Segundos-ejercicios-Scharp.exe
+C:\Users\Raquel\Desktop\Segundos-ejercicios-Scharp\Segundos-ejercicios-Scharp\bin\Debug\net8.0\Segundos-ejercicios-Scharp.deps.json
+C:\Users\Raquel\Desktop\Segundos-ejercicios-Scharp\Segundos-ejercicios-Scharp\bin\Debug\net8.0\Segundos-ejercicios-Scharp.runtimeconfig.json
+C:\Users\Raquel\Desktop\Segundos-ejercicios-Scharp\Segundos-ejercicios-Scharp\bin\Debug\net8.0\Segundos-ejercicios-Scharp.dll
+C:\Users\Raquel\Desktop\Segundos-ejercicios-Scharp\Segundos-ejercicios-Scharp\bin\Debug\net8.0\Segundos-ejercicios-Scharp.pdb
+C:\Users\Raquel\Desktop\Segundos-ejercicios-Scharp\Segundos-ejercicios-Scharp\obj\Debug\net8.0\Segundos-ejercicios-Scharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel\Desktop\Segundos-ejercicios-Scharp\Segundos-ejercicios-Scharp\obj\Debug\net8.0\Segundos-ejercicios-Scharp.AssemblyInfoInputs.cache
+C:\Users\Raquel\Desktop\Segundos-ejercicios-Scharp\Segundos-ejercicios-Scharp\obj\Debug\net8.0\Segundos-ejercicios-Scharp.AssemblyInfo.cs
+C:\Users\Raquel\Desktop\Segundos-ejercicios-Scharp\Segundos-ejercicios-Scharp\obj\Debug\net8.0\Segundos-ejercicios-Scharp.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\Desktop\Segundos-ejercicios-Scharp\Segundos-ejercicios-Scharp\obj\Debug\net8.0\Segundos-ejercicios-Scharp.dll
+C:\Users\Raquel\Desktop\Segundos-ejercicios-Scharp\Segundos-ejercicios-Scharp\obj\Debug\net8.0\refint\Segundos-ejercicios-Scharp.dll
+C:\Users\Raquel\Desktop\Segundos-ejercicios-Scharp\Segundos-ejercicios-Scharp\obj\Debug\net8.0\Segundos-ejercicios-Scharp.pdb
+C:\Users\Raquel\Desktop\Segundos-ejercicios-Scharp\Segundos-ejercicios-Scharp\obj\Debug\net8.0\Segundos-ejercicios-Scharp.genruntimeconfig.cache
+C:\Users\Raquel\Desktop\Segundos-ejercicios-Scharp\Segundos-ejercicios-Scharp\obj\Debug\net8.0\ref\Segundos-ejercicios-Scharp.dll
